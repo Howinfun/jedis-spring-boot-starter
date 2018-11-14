@@ -10,9 +10,9 @@ import org.springframework.boot.context.properties.ConfigurationProperties;
 
 /**
  *
- *@author howinfun
- *@date 2018/11/13
- *@version 1.0
+ * @author howinfun
+ * @date 2018/11/13
+ * @version 1.0
  *  备注：
  *   1.@ConfigurationProperties
  *      将application.properties配置文件中的

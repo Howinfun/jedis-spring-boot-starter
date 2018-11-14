@@ -13,10 +13,10 @@ import org.springframework.context.annotation.Configuration;
 import redis.clients.jedis.Jedis;
 
 /**
- *
- *@author howinfun
- *@date 2018/11/13
- *@version 1.0
+ * @Desc 装配Jedis
+ * @author howinfun
+ * @date 2018/11/13
+ * @version 1.0
  */
 @Configuration
 @ConditionalOnClass(Jedis.class)
