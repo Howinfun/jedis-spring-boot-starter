@@ -1,0 +1,4 @@
+com\hyf\redis\JedisProperties.class
+com\hyf\redis\EnableJedisAutoConfiguratioin.class
+com\hyf\redis\JedisAutoConfiguration.class
+META-INF\spring-configuration-metadata.json

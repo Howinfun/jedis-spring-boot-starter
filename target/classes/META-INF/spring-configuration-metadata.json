@@ -1,0 +1,22 @@
+{
+  "groups": [
+    {
+      "name": "jedis",
+      "type": "com.hyf.redis.JedisProperties",
+      "sourceType": "com.hyf.redis.JedisProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "jedis.ip",
+      "type": "java.lang.String",
+      "sourceType": "com.hyf.redis.JedisProperties"
+    },
+    {
+      "name": "jedis.port",
+      "type": "java.lang.Integer",
+      "sourceType": "com.hyf.redis.JedisProperties"
+    }
+  ],
+  "hints": []
+}
